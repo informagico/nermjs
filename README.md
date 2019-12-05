@@ -8,6 +8,7 @@ It includes these npm packages:
 
 - bcryptjs
 - dotenv
+- eslint
 - express
 - jest
 - jsonwebtoken

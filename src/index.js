@@ -1,3 +1,9 @@
-import 'dotenv/config'
+require('dotenv/config')
 
-console.log('Hello World! This is my ENV variable: ' + process.env.TEST_ENV_VARIABLE)
+const app = require('./app')
+
+const port = process.env.PORT
+
+app.listen(port, () => {
+	console.log('Server is up on port ' + port)
+})

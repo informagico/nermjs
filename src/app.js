@@ -1,3 +1,5 @@
+'use strict'
+
 const express = require('express')
 
 // * Require DB module - ENABLE THIS BEFORE TO START

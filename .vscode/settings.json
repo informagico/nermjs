@@ -8,6 +8,12 @@
 	"editor.renderWhitespace": "all",
 	"editor.suggestSelection": "first",
 	"editor.tabSize": 4,
+	"eslint.enable": true,
+	"eslint.validate": [
+		"javascript",
+		"javascriptreact"
+	],
+	"eslint.alwaysShowStatus": true,
 	"extensions.ignoreRecommendations": false,
 	"files.autoSave": "onFocusChange",
 	"files.autoSaveDelay": 750,

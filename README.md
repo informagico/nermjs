@@ -14,3 +14,7 @@ It includes these npm packages:
 - mongoose
 - supertest
 - validator
+
+### Note
+
+RxJS could be implemented...but this is another story

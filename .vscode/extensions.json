@@ -1,0 +1,13 @@
+{
+	"recommendations": [
+		"aaron-bond.better-comments",
+		"kisstkondoros.vscode-codemetrics",
+		"joelday.docthis",
+		"mikestead.dotenv",
+		"dbaeumer.vscode-eslint",
+		"christian-kohler.npm-intellisense",
+		"christian-kohler.path-intellisense",
+		"remimarsal.prettier-now",
+		"mohsen1.prettify-json"
+	]
+}
